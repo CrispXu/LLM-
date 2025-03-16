@@ -20,7 +20,7 @@ In the near-field region, the distribution of electric and magnetic fields gover
 In contrast, far-field communication systems rely on the propagation of plane waves, where distance plays a secondary role, and angle becomes the primary factor influencing signal propagation. Signals in the far-field are often subject to attenuation, multipath interference, and signal refraction, leading to lower localization accuracy. Therefore, far-field communication systems typically face significant performance challenges in dense environments.
 
 #### ![Figure 2.1-1 array response vector of Near-field and far-field](5g/f1.png)
-<center>*Figure 2.1-1 array response vector of Near-field and far-field*</center>
+<p align="center">*Figure 2.1-1 array response vector of Near-field and far-field*</p>
 
 ### 2.2 Joint Signal Transmission
 One of the core innovations of NF-ISC is the joint transmission of communication and sensing signals. In traditional systems, communication and sensing are treated as separate processes, often requiring different resources. In NF-ISC, however, both tasks share the same time block, allowing for simultaneous communication and sensing operations.
