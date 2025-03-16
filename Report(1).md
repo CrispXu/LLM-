@@ -143,7 +143,7 @@ Future research will focus on:
 
 ---
 ## 7. References  
-1. *H. Zhang, N. Shlezinger, F. Guidi, D. Dardari, M. F. Imani and Y. C. Eldar, "Beam Focusing for Near-Field Multiuser MIMO Communications," in IEEE Transactions on Wireless Communications, vol. 21, no. 9, pp. 7476-7490, Sept. 2022, doi: 10.1109/TWC.2022.3158894.
-2. srsRAN Project. (2022). *srsRAN: Open-Source 4G/5G RAN*. Retrieved from [https://www.srsran.com](https://www.srsran.com)  
-3. 3GPP TS 23.501. (2021). *System Architecture for the 5G System*.  
+1. *H. Zhang, N. Shlezinger, F. Guidi, D. Dardari, M. F. Imani and Y. C. Eldar, "Beam Focusing for Near-Field Multiuser MIMO Communications," in IEEE Transactions on Wireless Communications, vol. 21, no. 9, pp. 7476-7490, Sept. 2022, doi: 10.1109/TWC.2022.3158894.*
+2. *Z. Wang, X. Mu and Y. Liu, "Near-Field Integrated Sensing and Communications," in IEEE Communications Letters, vol. 27, no. 8, pp. 2048-2052, Aug. 2023, doi: 10.1109/LCOMM.2023.3280132.*
+3. *余显祥,姚雪,杨婧,等. 面向感知应用的通感一体化信号设计技术与综述[J]. 雷达学报,2023,12(2):247-261. DOI:10.12000/JR23015.*.  
 
