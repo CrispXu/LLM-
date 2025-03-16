@@ -101,7 +101,7 @@ The simulations were conducted to compare the performance of NF-ISC in both near
 - **Near-Field Systems:** Near-field systems demonstrated significantly better localization accuracy and communication rates.
 - **Far-Field Systems:** Far-field systems suffered from higher signal attenuation and multipath interference.
 
-- #### ![Figure 4.1-1 Simulation result of far-field](5g/f3.png)
+- #### <p align="center">![Figure 4.1-1 Simulation result of far-field](5g/f3.png)</p>
 <p align="center">*Figure 4.1-1 Simulation result of far-field*</p>
 
 #### ![Figure 4.1-2 simulation result of near-field](5g/f4.png)
