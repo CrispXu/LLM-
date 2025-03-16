@@ -13,14 +13,17 @@ This report examines the theoretical framework, performance analysis, and optimi
 ### 2.1 Near-Field vs. Far-Field Communication
 The propagation characteristics of wireless communication signals are fundamentally determined by the distance and angle between the transmitter and receiver. In traditional far-field communication systems, the signal propagation typically follows the model of spherical waves, where the signal’s strength decreases with distance, and the angle between the transmitter and receiver significantly impacts the propagation. However, in near-field communication, both distance and angle play crucial roles in determining how the signal propagates.
 
+#### ![Figure 2.1-1 array response vector of Near-field and far-field](5g/f1.png)
+<p align="center">*Figure 2.1-1 array response vector of Near-field and far-field*</p>
+
 #### Near-Field Propagation Characteristics:
 In the near-field region, the distribution of electric and magnetic fields governs the signal propagation. According to the standard definition of near-field and far-field regions, when the distance between users and the base station is small (usually within a few wavelengths of the transmission frequency), the signal propagation is heavily influenced by the electric and magnetic fields. This characteristic enables the near-field communication to provide higher precision and resolution at short distances. Thus, location sensing and target detection perform exceptionally well in near-field environments. The near-field communication system allows distinguishing users that are located in the same direction but at different distances, a feat that far-field systems cannot easily achieve.
 
 #### Far-Field Propagation Characteristics:
 In contrast, far-field communication systems rely on the propagation of plane waves, where distance plays a secondary role, and angle becomes the primary factor influencing signal propagation. Signals in the far-field are often subject to attenuation, multipath interference, and signal refraction, leading to lower localization accuracy. Therefore, far-field communication systems typically face significant performance challenges in dense environments.
 
-#### ![Figure 2.1-1 array response vector of Near-field and far-field](5g/f1.png)
-<p align="center">*Figure 2.1-1 array response vector of Near-field and far-field*</p>
+#### ![Figure 2.1-2 Difference between near-field and far-field](5g/f2.png)
+<p align="center">*Figure 2.1-2 Difference between near-field and far-field*</p>
 
 ### 2.2 Joint Signal Transmission
 One of the core innovations of NF-ISC is the joint transmission of communication and sensing signals. In traditional systems, communication and sensing are treated as separate processes, often requiring different resources. In NF-ISC, however, both tasks share the same time block, allowing for simultaneous communication and sensing operations.
@@ -97,6 +100,12 @@ The performance of the NF-ISC system was evaluated through simulations, which ut
 The simulations were conducted to compare the performance of NF-ISC in both near-field and far-field scenarios. The key observations were:
 - **Near-Field Systems:** Near-field systems demonstrated significantly better localization accuracy and communication rates.
 - **Far-Field Systems:** Far-field systems suffered from higher signal attenuation and multipath interference.
+
+- #### ![Figure 4.1-1 Simulation result of far-field](5g/f3.png)
+<p align="center">*Figure 4.1-1 Simulation result of far-field*</p>
+
+#### ![Figure 4.1-2 simulation result of near-field](5g/f4.png)
+<p align="center">*Figure 4.1-2 simulation result of near-field*</p>
 
 ### 4.3 Simulation Insights
 - **Improved Signal-to-Noise Ratio (SNR):** In near-field systems, the reduced propagation distance led to an improved SNR, resulting in better localization accuracy.
