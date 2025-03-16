@@ -19,7 +19,7 @@ In the near-field region, the distribution of electric and magnetic fields gover
 #### Far-Field Propagation Characteristics:
 In contrast, far-field communication systems rely on the propagation of plane waves, where distance plays a secondary role, and angle becomes the primary factor influencing signal propagation. Signals in the far-field are often subject to attenuation, multipath interference, and signal refraction, leading to lower localization accuracy. Therefore, far-field communication systems typically face significant performance challenges in dense environments.
 
-#### ![Figure 2.1-1 array response vector of Near-field and far-field](file:///mnt/data/image.png)
+#### ![Figure 2.1-1 array response vector of Near-field and far-field](file:///5g/f1.png)
 *Figure 2.1-1 array response vector of Near-field and far-field*
 
 ### 2.2 Joint Signal Transmission
