@@ -142,5 +142,8 @@ Future research will focus on:
 - **Exploring real-world implementation challenges**
 
 ---
-
+## 7. References  
+1. Open5GS Documentation. (2023). *Open5GS: Open-source 5G Core Network*. Retrieved from [https://open5gs.org](https://open5gs.org)  
+2. srsRAN Project. (2022). *srsRAN: Open-Source 4G/5G RAN*. Retrieved from [https://www.srsran.com](https://www.srsran.com)  
+3. 3GPP TS 23.501. (2021). *System Architecture for the 5G System*.  
 
