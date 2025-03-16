@@ -8,6 +8,8 @@ Traditional wireless communication systems primarily focus on transmitting data,
 
 This report examines the theoretical framework, performance analysis, and optimization techniques for NF-ISC systems. Additionally, we will explore the simulation results that demonstrate the practical advantages of this unified system.
 
+---
+
 ## 2. System Model and Framework
 
 ### 2.1 Near-Field vs. Far-Field Communication
@@ -58,6 +60,8 @@ The covariance matrix:
 Rx = E[X[t] * XH[t]] = Σ fk * fkH + Rs
 ```
 
+---
+
 ### 3. Performance Analysis and Optimization
 
 #### 3.1 Optimization Problem
@@ -79,6 +83,8 @@ P_MUSIC(θ, φ) = 1 / ||A(θ, φ) * E(θ, φ)||
 ```
 
 In NF-ISC, the MUSIC algorithm can be used for accurate localization of users or target detection, particularly in complex environments with multipath interference.
+
+---
 
 ## 4. Simulation Results
 
@@ -111,6 +117,8 @@ The simulations were conducted to compare the performance of NF-ISC in both near
 - **Improved Signal-to-Noise Ratio (SNR):** In near-field systems, the reduced propagation distance led to an improved SNR, resulting in better localization accuracy.
 - **MUSIC Algorithm Effectiveness:** The MUSIC algorithm played a crucial role in improving the system’s sensing capabilities by providing high-resolution parameter estimation even in complex and noisy environments.
 
+---
+
 ## 5. Results and Discussion
 
 ### 5.1 Communication and Sensing Performance
@@ -119,5 +127,30 @@ The simulation results highlight that near-field systems outperform far-field sy
 ### 5.2 Simulation Insights
 Near-field systems benefit from the reduced propagation distance, which improves the signal-to-noise ratio (SNR) and localization accuracy.
 
+---
+
 ## 6. Conclusion
-The Near-Field Integrated Sensing and Communications (NF-ISC) framework represents a significant advancement in wireless communication technologies. Simulation results show that NF-ISC systems can achieve higher communication rates and sensing accuracy compared to traditional systems. Future research will focus on further optimizing joint communication and sensing strategies, as well as exploring practical implementation in real-world environments.
+
+The **Near-Field Integrated Sensing and Communications (NF-ISC) framework** represents a significant advancement in wireless communication. By integrating **communication and sensing**, it enables **efficient resource utilization and better system performance**.
+
+Simulation results confirm that **NF-ISC achieves higher communication rates and sensing accuracy compared to traditional systems**. This opens new possibilities for **real-time applications** in autonomous vehicles, industrial IoT, and smart cities.
+
+Future research will focus on:
+- **Further optimization of joint communication and sensing strategies**
+- **Exploring real-world implementation challenges**
+
+
+---
+
+## 7. Literature Review  
+This project builds on foundational research and open-source advancements in 5G:  
+1. **Open5GS Architecture** (2023): The Open5GS project provides a 4G/5G core network implementation compliant with 3GPP Release 16. Its modular design supports SA/NSA modes and network slicing [[1]](#references).  
+2. **srsRAN Flexibility** (2022): srsRAN enables software-defined RAN deployment with support for LTE/NR protocols, making it ideal for experimental validation of 5G features like beamforming and carrier aggregation [[2]](#references).  
+3. **5G Performance Benchmarking** (2021): Studies highlight the importance of end-to-end latency (<20 ms) and throughput (>1 Gbps) as critical KPIs for 5G SA networks, aligning with our testing framework [[3]](#references).  
+
+---
+
+## 8. References  
+1. Open5GS Documentation. (2023). *Open5GS: Open-source 5G Core Network*. Retrieved from [https://open5gs.org](https://open5gs.org)  
+2. srsRAN Project. (2022). *srsRAN: Open-Source 4G/5G RAN*. Retrieved from [https://www.srsran.com](https://www.srsran.com)  
+3. 3GPP TS 23.501. (2021). *System Architecture for the 5G System*.  
