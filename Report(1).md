@@ -143,7 +143,7 @@ Future research will focus on:
 
 ---
 ## 7. References  
-1. Open5GS Documentation. (2023). *Open5GS: Open-source 5G Core Network*. Retrieved from [https://open5gs.org](https://open5gs.org)  
+1. *H. Zhang, N. Shlezinger, F. Guidi, D. Dardari, M. F. Imani and Y. C. Eldar, "Beam Focusing for Near-Field Multiuser MIMO Communications," in IEEE Transactions on Wireless Communications, vol. 21, no. 9, pp. 7476-7490, Sept. 2022, doi: 10.1109/TWC.2022.3158894.
 2. srsRAN Project. (2022). *srsRAN: Open-Source 4G/5G RAN*. Retrieved from [https://www.srsran.com](https://www.srsran.com)  
 3. 3GPP TS 23.501. (2021). *System Architecture for the 5G System*.  
 
