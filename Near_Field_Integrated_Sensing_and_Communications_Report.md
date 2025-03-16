@@ -13,7 +13,7 @@ This report examines the theoretical framework, performance analysis, and optimi
 ### 2.1 Near-Field vs. Far-Field Communication
 The propagation characteristics of wireless communication signals are fundamentally determined by the distance and angle between the transmitter and receiver. In traditional far-field communication systems, the signal propagation typically follows the model of spherical waves, where the signal’s strength decreases with distance, and the angle between the transmitter and receiver significantly impacts the propagation. However, in near-field communication, both distance and angle play crucial roles in determining how the signal propagates.
 
-#### ![Figure 2.1-1 array response vector of Near-field and far-field](5g/f1.png)
+#### <p align="center">![Figure 2.1-1 array response vector of Near-field and far-field](5g/f1.png)</p>
 <p align="center">*Figure 2.1-1 array response vector of Near-field and far-field*</p>
 
 #### Near-Field Propagation Characteristics:
@@ -22,7 +22,7 @@ In the near-field region, the distribution of electric and magnetic fields gover
 #### Far-Field Propagation Characteristics:
 In contrast, far-field communication systems rely on the propagation of plane waves, where distance plays a secondary role, and angle becomes the primary factor influencing signal propagation. Signals in the far-field are often subject to attenuation, multipath interference, and signal refraction, leading to lower localization accuracy. Therefore, far-field communication systems typically face significant performance challenges in dense environments.
 
-![Figure 2.1-2 Difference between near-field and far-field](5g/f2.png)
+#### <p align="center">![Figure 2.1-2 Difference between near-field and far-field](5g/f2.png)</p>
 <p align="center">*Figure 2.1-2 Difference between near-field and far-field*</p>
 
 ### 2.2 Joint Signal Transmission
@@ -104,7 +104,7 @@ The simulations were conducted to compare the performance of NF-ISC in both near
 - #### <p align="center">![Figure 4.1-1 Simulation result of far-field](5g/f3.png)</p>
 <p align="center">*Figure 4.1-1 Simulation result of far-field*</p>
 
-#### ![Figure 4.1-2 simulation result of near-field](5g/f4.png)
+#### <p align="center">![Figure 4.1-2 simulation result of near-field](5g/f4.png)</p>
 <p align="center">*Figure 4.1-2 simulation result of near-field*</p>
 
 ### 4.3 Simulation Insights
