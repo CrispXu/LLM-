@@ -50,7 +50,7 @@ This report examines the theoretical framework, performance analysis, and optimi
 
 The propagation characteristics of wireless communication signals are fundamentally determined by the distance and angle between the transmitter and receiver.
 
-#### <p align="center">![Figure 2.1-1 array response vector of Near-field and far-field](5g/f1.png)</p>
+#### <p align="center">![Figure 2.1-1 array response vector of Near-field and far-field](5g/f1.png.png=512x512)</p>
 <p align="center">*Figure 2.1-1 array response vector of Near-field and far-field*</p>
 
 - **Near-Field Propagation Characteristics**: In the near-field region, the distribution of electric and magnetic fields governs the signal propagation. When the distance between users and the base station is small (within a few wavelengths of the transmission frequency), the signal propagation is heavily influenced by these fields. This allows near-field communication to provide higher precision and resolution at short distances.
