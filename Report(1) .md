@@ -9,8 +9,8 @@
 | Student Name       | Student ID     |
 |--------------------|----------------|
 | [Li Wenli]   | [224010040] |
-| [Deng Haiqian]   | [224010045] |
-| [Xu Jiajun]   | [224010072] |
+| [Deng Haiqian]   | [224010072] |
+| [Xu Jiajun]   | [224010045] |
 
 ---
 
