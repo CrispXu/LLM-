@@ -14,6 +14,7 @@
 
 ---
 
+## Table of Contents
 - [1. Introduction](#1-introduction)
 - [2. System Model and Framework](#2-system-model-and-framework)
   - [2.1 Near-Field vs. Far-Field Communication](#21-near-field-vs-far-field-communication)
