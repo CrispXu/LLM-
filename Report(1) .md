@@ -50,14 +50,14 @@ This report examines the theoretical framework, performance analysis, and optimi
 
 The propagation characteristics of wireless communication signals are fundamentally determined by the distance and angle between the transmitter and receiver.
 
-#### <p align="center">![Figure 2.1-1 array response vector of Near-field and far-field](5g/f1.png)</p>
+#### <p align="center">![Figure 2.1-1 array response vector of Near-field and far-field](https://github.com/CrispXu/Notes/blob/main/5g/f1.png)</p>
 <p align="center">*Figure 2.1-1 array response vector of Near-field and far-field*</p>
 
 - **Near-Field Propagation Characteristics**: In the near-field region, the distribution of electric and magnetic fields governs the signal propagation. When the distance between users and the base station is small (within a few wavelengths of the transmission frequency), the signal propagation is heavily influenced by these fields. This allows near-field communication to provide higher precision and resolution at short distances.
 
 - **Far-Field Propagation Characteristics**: In contrast, far-field communication systems rely on the propagation of plane waves. The signal attenuation and multipath interference result in lower localization accuracy. Thus, far-field communication systems typically face significant performance challenges in dense environments.
 
-#### <p align="center">![Figure 2.1-2 Difference between near-field and far-field](5g/f2.png)</p>
+#### <p align="center">![Figure 2.1-2 Difference between near-field and far-field](https://github.com/CrispXu/Notes/blob/main/5g/f2.png)</p>
 <p align="center">*Figure 2.1-2 Difference between near-field and far-field*</p>
 
 ### 2.2 Joint Signal Transmission
@@ -137,10 +137,10 @@ The simulations were performed using the following parameters:
 - **Near-Field Systems**:  Achieve precise spatial resolution, capable of distinguishing different positions within the same directional sector.
 - **Far-Field Systems**: Demonstrate limited spatial discrimination, primarily distinguishing angular differences without positional specificity.
 
-- #### <p align="center">![Figure 4.1-1 Simulation result of far-field](5g/f3.png)</p>
+- #### <p align="center">![Figure 4.1-1 Simulation result of far-field](https://github.com/CrispXu/Notes/blob/main/5g/f3.png)</p>
 <p align="center">*Figure 4.1-1 Simulation result of far-field*</p>
 
-#### <p align="center">![Figure 4.1-2 simulation result of near-field](5g/f4.png)</p>
+#### <p align="center">![Figure 4.1-2 simulation result of near-field](https://github.com/CrispXu/Notes/blob/main/5g/f4.png)</p>
 <p align="center">*Figure 4.1-2 simulation result of near-field*</p>
 
 ### 4.3 Simulation Insights
